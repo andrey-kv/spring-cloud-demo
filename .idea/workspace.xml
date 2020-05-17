@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="409d6f6b-4070-43e4-8620-edc5b70b8e95" name="Default Changelist" comment="Maven project structure was changed to tree view">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1bxhhHMIxdQp4u899u7fsCEu7AL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16353111" />
+    <property name="project.structure.side.proportion" value="0.34745762" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Eureka Server">
+    <configuration name="ConfigServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ankov.configServer.ConfigServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ankov.eurekaServer.EurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Guest Module" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guest-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ankov.guestServices.GuestServicesApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reservation Module" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reservation-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ankov.reservationServices.ReservationModuleApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Room Module" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="room-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ankov.roomServices.RoomModuleApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomReservationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="room-reservation-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ankov.roomReservationService.RoomReservationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConfigServer" />
+      <item itemvalue="Spring Boot.Eureka Server" />
+      <item itemvalue="Spring Boot.Guest Module" />
+      <item itemvalue="Spring Boot.RoomReservationServiceApplication" />
+      <item itemvalue="Spring Boot.Reservation Module" />
+      <item itemvalue="Spring Boot.Room Module" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="409d6f6b-4070-43e4-8620-edc5b70b8e95" name="Default Changelist" comment="" />
+      <created>1589579769582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589579769582</updated>
+      <workItem from="1589579774164" duration="6950000" />
+      <workItem from="1589586776308" duration="2079000" />
+      <workItem from="1589635708061" duration="1463000" />
+      <workItem from="1589722963814" duration="4358000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changed port for roomservice">
+      <created>1589587277533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589587277533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Maven project structure was changed to tree view">
+      <created>1589723879929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589723879929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Maven project structure was changed to tree view">
+      <created>1589723967430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589723967430</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed port for roomservice" />
+    <MESSAGE value="Maven project structure was changed to tree view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maven project structure was changed to tree view" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="105" width="1380" height="845" key="#Project_Structure" timestamp="1589586161691">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="443" y="105" width="1380" height="845" key="#Project_Structure/0.27.1920.1004@0.27.1920.1004" timestamp="1589586161691" />
+    <state x="548" y="120" width="813" height="815" key="#Reservation_Module" timestamp="1589587421241">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="548" y="120" width="813" height="815" key="#Reservation_Module/0.27.1920.1004@0.27.1920.1004" timestamp="1589587421241" />
+    <state x="418" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589588746564">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="418" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1589588746564" />
+    <state x="692" y="320" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589588123369">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="692" y="320" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1589588123369" />
+    <state x="517" y="27" width="1155" height="934" key="CommitChangelistDialog2" timestamp="1589726720924">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="517" y="27" width="1155" height="934" key="CommitChangelistDialog2/0.27.1920.1004@0.27.1920.1004" timestamp="1589726720924" />
+    <state x="100" y="125" width="1720" height="806" key="DiffContextDialog" timestamp="1589724192108">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="100" y="125" width="1720" height="806" key="DiffContextDialog/0.27.1920.1004@0.27.1920.1004" timestamp="1589724192108" />
+    <state x="743" y="286" width="580" height="484" key="FileChooserDialogImpl" timestamp="1589587055313">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="743" y="286" width="580" height="484" key="FileChooserDialogImpl/0.27.1920.1004@0.27.1920.1004" timestamp="1589587055313" />
+    <state width="1415" height="239" key="GridCell.Tab.0.bottom" timestamp="1589724999322">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1415" height="239" key="GridCell.Tab.0.bottom/0.27.1920.1004@0.27.1920.1004" timestamp="1589724999322" />
+    <state width="1415" height="239" key="GridCell.Tab.0.center" timestamp="1589724999319">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1415" height="239" key="GridCell.Tab.0.center/0.27.1920.1004@0.27.1920.1004" timestamp="1589724999319" />
+    <state width="1415" height="239" key="GridCell.Tab.0.left" timestamp="1589724999318">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1415" height="239" key="GridCell.Tab.0.left/0.27.1920.1004@0.27.1920.1004" timestamp="1589724999318" />
+    <state width="1415" height="239" key="GridCell.Tab.0.right" timestamp="1589724999320">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1415" height="239" key="GridCell.Tab.0.right/0.27.1920.1004@0.27.1920.1004" timestamp="1589724999320" />
+    <state width="1415" height="239" key="GridCell.Tab.1.bottom" timestamp="1589724999327">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1415" height="239" key="GridCell.Tab.1.bottom/0.27.1920.1004@0.27.1920.1004" timestamp="1589724999327" />
+    <state width="1415" height="239" key="GridCell.Tab.1.center" timestamp="1589724999324">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1415" height="239" key="GridCell.Tab.1.center/0.27.1920.1004@0.27.1920.1004" timestamp="1589724999324" />
+    <state width="1415" height="239" key="GridCell.Tab.1.left" timestamp="1589724999323">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1415" height="239" key="GridCell.Tab.1.left/0.27.1920.1004@0.27.1920.1004" timestamp="1589724999323" />
+    <state width="1415" height="239" key="GridCell.Tab.1.right" timestamp="1589724999326">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state width="1415" height="239" key="GridCell.Tab.1.right/0.27.1920.1004@0.27.1920.1004" timestamp="1589724999326" />
+    <state x="540" y="274" width="819" height="507" key="NewModule_or_Project.wizard" timestamp="1589586145268">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="540" y="274" width="819" height="507" key="NewModule_or_Project.wizard/0.27.1920.1004@0.27.1920.1004" timestamp="1589586145268" />
+    <state x="555" y="250" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1589723988433">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="555" y="250" width="800" height="556" key="Vcs.Push.Dialog.v2/0.27.1920.1004@0.27.1920.1004" timestamp="1589723988433" />
+    <state x="651" y="267" width="770" height="522" key="find.popup" timestamp="1589587814677">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="651" y="267" width="770" height="522" key="find.popup/0.27.1920.1004@0.27.1920.1004" timestamp="1589587814677" />
+    <state x="329" y="278" width="1372" height="592" key="new project wizard" timestamp="1589585864258">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="329" y="278" width="1372" height="592" key="new project wizard/0.27.1920.1004@0.27.1920.1004" timestamp="1589585864258" />
+    <state x="624" y="241" width="672" height="677" key="run.anything.popup" timestamp="1589588656398">
+      <screen x="0" y="27" width="1920" height="1004" />
+    </state>
+    <state x="624" y="241" width="672" height="677" key="run.anything.popup/0.27.1920.1004@0.27.1920.1004" timestamp="1589588656398" />
+  </component>
+</project>
